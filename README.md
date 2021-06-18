@@ -9,7 +9,7 @@
 - Button
 - DatePicker
 - Switch
-- Stepper Etc
+- Stepper Etc..
 
 ![image1](https://user-images.githubusercontent.com/85922433/122572502-6f297c80-d06b-11eb-96a8-340d9a4b20f8.jpeg)
 ![image2](https://user-images.githubusercontent.com/85922433/122572514-718bd680-d06b-11eb-9fe5-fcc843bfee43.jpeg)
