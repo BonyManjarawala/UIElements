@@ -3,8 +3,8 @@
 * Some of these elements respond to user interactions such as buttons, text fields and others are informative such as images, labels.
 
 * List of UI Elements
-# UILabel
-# UITextField
+* UILabel
+* UITextField
 # UITextView
 # UIButton
 # UIDatePicker
