@@ -31,9 +31,10 @@
 
 ![Screenshot (126)](https://user-images.githubusercontent.com/85922433/124351670-55feff00-dc19-11eb-8230-2f9a849f8a0c.png)
 
+![macOS Mojave - VMware Workstation 15 Player (Non-commercial use only) 03-07-2021 15_24_04 (2)](https://user-images.githubusercontent.com/85922433/124351690-70d17380-dc19-11eb-9039-95ee90d6ba2c.png)
+
 ![Screenshot (127)](https://user-images.githubusercontent.com/85922433/124351671-57c8c280-dc19-11eb-881c-199002370c26.png)
 
-![macOS Mojave - VMware Workstation 15 Player (Non-commercial use only) 03-07-2021 15_24_04 (2)](https://user-images.githubusercontent.com/85922433/124351690-70d17380-dc19-11eb-9039-95ee90d6ba2c.png)
 
 ![Screenshot (128)](https://user-images.githubusercontent.com/85922433/124351675-5a2b1c80-dc19-11eb-92cb-ba158dff58e7.png)
 
